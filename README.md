@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Computer Engineering Student | Thapar Institute of Engineering & Technology</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&multiline=true&width=800&lines=Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&multiline=true&width=1200&lines=Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
 
 
 
