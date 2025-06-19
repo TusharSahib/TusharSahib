@@ -47,7 +47,7 @@
 #### 📌 [Job Portal](https://github.com/TusharSahib/Job-Portal)
 > A web-based freelance job and internship platform tailored for college environments — connects students with recruiters, allows job/internship applications, and automates selection.
 
-🔗 [Live Demo]([https://job-portal-tushar-goyals-projects-57ee71e0.vercel.app/]))
+🔗 [Live Demo](https://job-portal-tushar-goyals-projects-57ee71e0.vercel.app)
 
 More projects coming soon... 🚀
 
