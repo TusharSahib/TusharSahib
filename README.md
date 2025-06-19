@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Computer Engineering Student | Thapar Institute of Engineering & Technology</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Developer+%E2%9C%A8;Passionate+about+Web+Development+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%97;Anime+Lover+%F0%9F%8E%A9;Let%E2%80%99s+build+something+amazing!" width=800 alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Developer+%E2%9C%A8;Passionate+about+Web+Development+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%97;Anime+Lover+%F0%9F%8E%A9;Let%E2%80%99s+build+something+amazing!" width=1200 alt="Typing SVG" />
 
 </p>
 
@@ -47,7 +47,7 @@
 #### 📌 [Job Portal](https://github.com/TusharSahib/Job-Portal)
 > A web-based freelance job and internship platform tailored for college environments — connects students with recruiters, allows job/internship applications, and automates selection.
 
-🔗 [Live Demo](https://job-portal.vercel.app)
+🔗 [Live Demo]([https://job-portal.vercel.app](https://job-portal-tushar-goyals-projects-57ee71e0.vercel.app/))
 
 More projects coming soon... 🚀
 
