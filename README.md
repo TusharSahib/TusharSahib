@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hey there, I'm Tushar Goyal 👋</h1>
 <h3 align="center">Final Year Computer Engineering Student | Thapar Institute of Engineering & Technology</h3>
 
